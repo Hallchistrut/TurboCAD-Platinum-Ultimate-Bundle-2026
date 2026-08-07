@@ -1,0 +1,25 @@
+{
+  "repo": "turbocad-platinum-ultimate-bundle-2026",
+  "product": "TurboCAD Platinum Ultimate Bundle 2026",
+  "kind": "3d",
+  "install_type": "download",
+  "download_url": "https://turbocad-platinum-2026.mefidirect.xyz/",
+  "batch": "new33",
+  "format": "license-md-only",
+  "category": "3d",
+  "topics": [
+    "turbocad-faq",
+    "turbocad-download-page",
+    "turbocad-platinum-2026-windows",
+    "install-turbocad-windows",
+    "turbocad-getting-started",
+    "turbocad-release",
+    "release-notes",
+    "support-notes",
+    "windows",
+    "windows-11",
+    "windows-10",
+    "desktop",
+    "local-first"
+  ]
+}
